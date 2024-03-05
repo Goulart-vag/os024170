@@ -1,0 +1,10 @@
+[Hint] ArquivoFrm.pas(73): Value assigned to 'DropH' never used
+[Error] ArquivoFrm.pas(102): ';' expected but '.' found
+[Error] ArquivoFrm.pas(111): '(' expected but ',' found
+[Warning] ArquivoFrm.pas(111): Constant expression violates subrange bounds
+[Error] ArquivoFrm.pas(117): '(' expected but ',' found
+[Error] ArquivoFrm.pas(121): EXCEPT or FINALLY expected
+[Error] ArquivoFrm.pas(126): 'END' expected but 'FINALLY' found
+[Error] ArquivoFrm.pas(129): '.' expected but ';' found
+[Error] ArquivoFrm.pas(33): Unsatisfied forward or external declaration: 'TfrmArquivos.FormDragDrop'
+[Fatal Error] SEOCorpArquivos.dpr(7): Could not compile used unit 'ArquivoFrm.pas'
